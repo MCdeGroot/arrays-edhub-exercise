@@ -8,7 +8,7 @@ public class Main {
         System.out.println();
         System.out.println();
         System.out.println();
-        System.out.println("boom!");
+        System.out.println("boom !");
 
         // implementeer een for loop die alle namen in de array "names" print. Houd er rekening mee dat de array een andere length kan hebben dan 3.
         //for(;;) {
